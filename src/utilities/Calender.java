@@ -1,4 +1,4 @@
-package com.problems.solutions;
+package utilities;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

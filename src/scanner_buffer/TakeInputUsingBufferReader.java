@@ -1,6 +1,6 @@
 // Take input from the user using buffered reader and calculate
 
-package com.problems.solutions;
+package scanner_buffer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

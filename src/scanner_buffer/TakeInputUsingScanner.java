@@ -1,5 +1,5 @@
 // Java program to read data of various types using Scanner class.
-package com.problems.solutions;
+package scanner_buffer;
 
 import java.util.Scanner;
 

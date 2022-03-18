@@ -1,6 +1,6 @@
 // Perform different types of Arithmetic Operations
 
-package com.problems.solutions;
+package calculations;
 
 public class ArithmeticOperators {
 
